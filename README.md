@@ -47,7 +47,7 @@
 
 ## Videogames App
 
-  Videogames App is a SPA where you can find information about videogames  
+  Videogames App is a SPA where you can find information about videogames.  
 
 *Technologies*
 - JavaScript
