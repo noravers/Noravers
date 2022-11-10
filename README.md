@@ -1,6 +1,6 @@
 # About me
 
-  I'm a Full Stack Developer.
+  I'm a Full Stack Developer. Currently focused on ReactJS, Nodejs and Typescript. Learning new technologies as Nextjs.
 
 ---
 # Tech Stack
