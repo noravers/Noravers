@@ -45,17 +45,9 @@
 ---
 # Featured projects
 
-<!-- ## *Dogs App*
+<!-- ## *Videogames App*
 
-  *Dogs App is a SPA about dog breeds, in which you can:*
-
-- Check existing breeds.    
-- Add a new breed.    
-- Sort them by name (A-Z || Z-A)    
-- Sort them by weight (1-9 || 9-1)    
-- Filter by temperament.    
-- Filter by existing and new breeds.    
-- Search by breed name.    
+  *Videogames App is a SPA where you can find information about videogames  
 
 *Technologies*
 - JavaScript
@@ -68,9 +60,7 @@
 - PostgreSQL
 - Sequelize
 
-*Try it 🚀 <a href="https://dogs-app-olive.vercel.app/" target="_blank" rel="noreferrer">Dogs App</a>*
-
-  <img src="./gif/dogsApp.gif"/>  -->
+*Try it 🚀 <a href="https://videogames-client-ts.vercel.app/" target="_blank" rel="noreferrer">Videogames App</a>*
 
 ---
 ## *Coffee Street*
