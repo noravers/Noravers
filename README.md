@@ -1,9 +1,3 @@
-<p align='center'>
-  <img src='' alt='logo'/>
-</p>
-
-
----
 # About me
 
   I'm a Full Stack Developer.
