@@ -45,7 +45,7 @@
 ---
 # Featured projects
 
-<!-- ## *Videogames App*
+## *Videogames App*
 
   *Videogames App is a SPA where you can find information about videogames  
 
